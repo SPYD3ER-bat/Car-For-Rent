@@ -9,13 +9,13 @@ A modern **car rental web application** built with React.js and Sass that allows
 <details open>
   <summary>📸 View Screenshots</summary>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/master/ScreenShots/Landing-Page-1.png" alt="Homepage" width="800"/>
+    <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/Landing%20page%201.jpg" alt="Homepage" width="800"/>
     <p><em>Homepage with Hero Section</em></p>
-    <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/Landing%20page%201.jpg" alt="Vehicle Models" width="800"/>
+    <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/Prising%20Page.jpg" alt="Vehicle Rents" width="800"/>
     <p><em>Vehicle Models Selection</em></p>
-    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/booking-section.png" alt="Booking Section" width="800"/>
+    <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/Car%20Booking%20page.jpg" alt="Booking Section" width="800"/>
     <p><em>Car Booking Section</em></p>
-    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/testimonials.png" alt="Testimonials" width="800"/>
+    <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/Android%20App%20Showcase.jpg" alt="Android App Showcase" width="800"/>
     <p><em>Customer Testimonials</em></p>
   </div>
 </details>
@@ -112,24 +112,24 @@ In the project directory, you can run:
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/choose-us.png" alt="Why Choose Us" width="400px" />
+      <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/Support%20Page.jpg" alt="Why Choose Us" width="400px" />
       <br />
       <em>Why Choose Our Service</em>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/download-section.png" alt="Download App Section" width="400px" />
+      <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/Android%20App%20Showcase.jpg" alt="Download App Section" width="400px" />
       <br />
       <em>Download Our Mobile App</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/faq.png" alt="FAQ Section" width="400px" />
+      <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/About%20.jpg" alt="About Us" width="400px" />
       <br />
       <em>Frequently Asked Questions</em>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/footer.png" alt="Footer Section" width="400px" />
+      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/footer.png" alt="FAQ" width="400px" />
       <br />
       <em>Website Footer</em>
     </td>
