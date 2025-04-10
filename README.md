@@ -126,12 +126,12 @@ In the project directory, you can run:
     <td align="center">
       <img src="https://github.com/SPYD3ER-bat/Car-For-Rent/blob/master/ScreenShots/About%20.jpg" alt="About Us" width="400px" />
       <br />
-      <em>Frequently Asked Questions</em>
+      <em>About Us</em>
     </td>
     <td align="center">
       <img src="https://github.com/SPYD3ER-bat/Car-For-Rent/blob/master/ScreenShots/FAQ.jpg" alt="FAQ" width="400px" />
       <br />
-      <em>FAQ</em>
+      <em>Frequently Asked Questions</em>
     </td>
   </tr>
 </table>
