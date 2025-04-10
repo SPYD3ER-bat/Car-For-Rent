@@ -12,11 +12,11 @@ A modern **car rental web application** built with React.js and Sass that allows
     <img src="https://github.com/SPYD3ER-bat/Car-For-Rent/blob/master/ScreenShots/Landing%20page%201.jpg" alt="Homepage" width="800"/>
     <p><em>Homepage with Hero Section</em></p>
     <img src="https://github.com/SPYD3ER-bat/Car-For-Rent/blob/master/ScreenShots/Prising%20Page.jpg" alt="Vehicle Rents" width="800"/>
-    <p><em>Vehicle Models Selection</em></p>
+    <p><em>Vehicle Models Pricing</em></p>
     <img src="https://github.com/SPYD3ER-bat/Car-For-Rent/blob/master/ScreenShots/Car%20Booking%20page.jpg" alt="Booking Section" width="800"/>
     <p><em>Car Booking Section</em></p>
     <img src="https://github.com/SPYD3ER-bat/Car-For-Rent/blob/master/ScreenShots/Android%20App%20Showcase.jpg" alt="Android App Showcase" width="800"/>
-    <p><em>Customer Testimonials</em></p>
+    <p><em>Android App Section</em></p>
   </div>
 </details>
 
