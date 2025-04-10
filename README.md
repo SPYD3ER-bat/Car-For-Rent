@@ -11,7 +11,7 @@ A modern **car rental web application** built with React.js and Sass that allows
 <details open>
   <summary>📸 View Screenshots</summary>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/homepage.png" alt="Homepage" width="800"/>
+    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/ScreenShots/Landing-Page-1.png" alt="Homepage" width="800"/>
     <p><em>Homepage with Hero Section</em></p>
     <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/vehicle-models.png" alt="Vehicle Models" width="800"/>
     <p><em>Vehicle Models Selection</em></p>
