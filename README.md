@@ -129,9 +129,9 @@ In the project directory, you can run:
       <em>Frequently Asked Questions</em>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/footer.png" alt="FAQ" width="400px" />
+      <img src="https://github.com/SPYD3ER-bat/Car-For-Sale/blob/master/ScreenShots/FAQ.jpg" alt="FAQ" width="400px" />
       <br />
-      <em>Website Footer</em>
+      <em>FAQ</em>
     </td>
   </tr>
 </table>
@@ -152,12 +152,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Developer Name - [Your Name](https://github.com/yourusername)
+Developer Name - [Your Name](https://github.com/SPYD3ER-bat)
 
-Project Link: [https://github.com/yourusername/car-rental-website](https://github.com/yourusername/car-rental-website)
+Project Link: [https://github.com/SPYD3ER-bat/car-for-rent](https://github.com/SPYD3ER-bat/car-for-rent.git)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by [Your Name]</sub>
+  <sub>Built with ❤️ by Om Gawande</sub>
 </div>
