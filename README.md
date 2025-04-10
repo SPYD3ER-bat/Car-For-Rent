@@ -1,110 +1,80 @@
-# 🚗 Car Rental Platform
+# 🚗 Car Rental Website
 
-![Car Rental Banner](/api/placeholder/1200/300)
+![Car Rental Website Banner](https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/src/images/hero/heroes-bg.png)
 
-A modern, user-friendly **car rental website** that allows customers to easily search, compare, and book vehicles for personal or business use. Our platform offers an intuitive interface with access to a diverse fleet of vehicles varying in make, model, size, and price.
+A modern **car rental web application** built with React.js and Sass that allows users to search, compare, and reserve vehicles from a diverse fleet. The platform provides an intuitive interface for customers to find the perfect vehicle for their needs, whether for personal or business use.
 
-## ✨ Live Demo
+## ✨ Demo & Screenshots
 
-👉 [**Experience the Car Rental Platform**](https://car-rental-pcexwfwvp-devrahuls.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-blue?style=for-the-badge&logo=vercel)](https://car-rental-pcexwfwvp-devrahuls.vercel.app/)
 
-## 📸 Project Screenshots
-
-<div align="center">
-  <img src="/api/placeholder/600/400" alt="Homepage" width="400" />
-  <img src="/api/placeholder/600/400" alt="Car Selection" width="400" />
-</div>
-
-<div align="center">
-  <img src="/api/placeholder/600/400" alt="Booking Process" width="400" />
-  <img src="/api/placeholder/600/400" alt="Mobile View" width="400" />
-</div>
+<details open>
+  <summary>📸 View Screenshots</summary>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/homepage.png" alt="Homepage" width="800"/>
+    <p><em>Homepage with Hero Section</em></p>
+    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/vehicle-models.png" alt="Vehicle Models" width="800"/>
+    <p><em>Vehicle Models Selection</em></p>
+    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/booking-section.png" alt="Booking Section" width="800"/>
+    <p><em>Car Booking Section</em></p>
+    <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/testimonials.png" alt="Testimonials" width="800"/>
+    <p><em>Customer Testimonials</em></p>
+  </div>
+</details>
 
 ## 🛠️ Built With
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+</div>
 
-## 🚀 Getting Started
+## ✅ Features
 
-### Prerequisites
+- 🔍 **Advanced Search** - Find vehicles by make, model, price, and availability
+- 💰 **Price Comparison** - Easy comparison of rental rates across different vehicles
+- 📅 **Easy Booking** - Streamlined reservation process with date selection
+- 📱 **Responsive Design** - Optimized for all devices from mobile to desktop
+- 🔒 **Secure Payments** - Safe and reliable payment processing
+- 👤 **User Accounts** - Personal dashboards to manage bookings
 
-- Node.js (v12 or later)
-- npm (Node Package Manager)
+## 📋 Prerequisites
 
-### Installation
+Before you begin, ensure you have the following installed:
 
-1. Clone the repository
+- [Node.js](https://nodejs.org/) (v12 or later)
+- npm (comes with Node.js)
+
+## 🚀 Installation & Setup
+
+1. **Clone the repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/yourusername/car-rental-website.git
+   cd car-rental-website
    ```
 
-2. Navigate to the project directory
-   ```bash
-   cd <project_directory>
-   ```
-
-3. Install dependencies
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-### Running the Application
-
-1. Start the development server
+3. **Start the development server**
    ```bash
    npm start
    ```
 
-2. Open your browser and visit [http://localhost:3000](http://localhost:3000)
+4. **View the application**  
+   Open your browser and navigate to `http://localhost:3000`
 
-## 🎨 Styling with Sass
-
-This project leverages Sass for advanced styling capabilities:
-
-1. Sass files are located in `src/styles/styles.scss`
-2. Compile Sass into CSS with:
-   ```bash
-   npm run build-css
-   ```
-
-## 📝 Available Scripts
-
-| Script | Description |
-|--------|-------------|
-| `npm start` | Runs the app in development mode |
-| `npm test` | Launches the test runner |
-| `npm run build` | Builds the app for production |
-| `npm run eject` | Ejects from Create React App configuration |
-
-## 🌟 Features
-
-- Intuitive car search and filtering
-- Secure booking system
-- Responsive design for all devices
-- Real-time availability updates
-- User account management
-
-## 📱 Responsive Design
-
-The application is fully responsive and provides an optimal viewing experience across a wide range of devices:
-
-- Desktop computers
-- Laptops
-- Tablets
-- Mobile phones
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Project Structure
+## 📂 Project Structure
 
 ```
-car-rental/
+car-rental-website/
 ├── public/
 │   ├── index.html
 │   └── assets/
@@ -115,17 +85,81 @@ car-rental/
 │   │   └── styles.scss
 │   ├── App.js
 │   └── index.js
+├── package.json
 └── README.md
 ```
 
-## 🔧 Contributing
+## 🎨 Styling with Sass
 
-1. Fork the repository
+This project uses Sass for styling. To compile Sass files:
+
+```bash
+npm run build-css
+```
+
+This will compile all `.scss` files in the `src/styles` directory to corresponding CSS files.
+
+## 📝 Available Scripts
+
+In the project directory, you can run:
+
+- `npm start` - Runs the app in development mode
+- `npm test` - Launches the test runner
+- `npm run build` - Builds the app for production
+- `npm run build-css` - Compiles Sass files to CSS
+- `npm run eject` - Ejects the configuration (⚠️ one-way operation)
+
+## 📊 Project Gallery
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/choose-us.png" alt="Why Choose Us" width="400px" />
+      <br />
+      <em>Why Choose Our Service</em>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/download-section.png" alt="Download App Section" width="400px" />
+      <br />
+      <em>Download Our Mobile App</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/faq.png" alt="FAQ Section" width="400px" />
+      <br />
+      <em>Frequently Asked Questions</em>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/SPYD3ER-bat/Car-For-Sale/main/screenshots/footer.png" alt="Footer Section" width="400px" />
+      <br />
+      <em>Website Footer</em>
+    </td>
+  </tr>
+</table>
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 🤝 Contact
+## 📜 License
 
-If you have any questions or feedback, please reach out at: [your-email@example.com](mailto:your-email@example.com)
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📞 Contact
+
+Developer Name - [Your Name](https://github.com/yourusername)
+
+Project Link: [https://github.com/yourusername/car-rental-website](https://github.com/yourusername/car-rental-website)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by [Your Name]</sub>
+</div>
