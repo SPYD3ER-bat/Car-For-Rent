@@ -152,9 +152,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Developer Name - Om Gawande(https://github.com/SPYD3ER-bat)
+Developer Name - [Om Gawande](https://github.com/SPYD3ER-bat)
 
-Project Link: Car For Rent (https://github.com/SPYD3ER-bat/Car-For-Rent.git)
+Project Link: [Car For Rent] (https://github.com/SPYD3ER-bat/Car-For-Rent.git)
 
 ---
 
